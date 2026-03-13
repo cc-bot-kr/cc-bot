@@ -18,12 +18,7 @@ cp .env.example .env
 
 `.env`를 채웁니다.
 
-3. 환경변수 주입
-```bash
-source .env
-```
-
-4. 실행
+3. 실행
 
 ```bash
 uv run python main.py

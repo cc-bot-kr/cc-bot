@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "pydantic-settings>=2.11.0",
     "py-cord>=2.7.1",
     "pynacl>=1.6.2",
 ]
